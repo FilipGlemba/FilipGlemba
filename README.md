@@ -1,6 +1,6 @@
 # 👋 Filip Glemba — Full-stack Web Developer
 
-Študent SSOŠTA (odbor Informačné a digitálne technológie), 4+ roky skúseností
+Študent SSOSTA (odbor Informačné a digitálne technológie), 4+ roky skúseností
 s webom. Posledný väčší projekt: **[FitGear](https://fitgear-eshop.vercel.app)**
 — full-stack Next.js e-shop s autentifikáciou, platbami cez Stripe a admin
 dashboardom ([kód](https://github.com/FilipGlemba/my-portfolio/tree/master/eshop)).
