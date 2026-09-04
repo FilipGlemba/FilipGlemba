@@ -1,16 +1,18 @@
-# 👋 Filip Glemba — Full-stack Web Developer
+# 👋 Filip Glemba — Web Developer
 
 Študent SSOSTA (odbor Informačné a digitálne technológie), 4+ roky skúseností
-s webom. Posledný väčší projekt: **[FitGear](https://fitgear-eshop.vercel.app)**
-— full-stack Next.js e-shop s autentifikáciou, platbami cez Stripe a admin
-dashboardom ([kód](https://github.com/FilipGlemba/my-portfolio/tree/master/eshop)).
+s webom — väčšinu z toho HTML/CSS/JS. Tento rok som sa pustil aj do full-stacku
+(React, Next.js). Posledný väčší projekt: **[FitGear](https://fitgear-eshop.vercel.app)**
+— Next.js e-shop s autentifikáciou, platbami cez Stripe a admin dashboardom
+([kód](https://github.com/FilipGlemba/my-portfolio/tree/master/eshop)).
 
 **🌐 Portfólio:** [filipglemba.github.io/my-portfolio](https://filipglemba.github.io/my-portfolio/)
 
 - 🔭 Momentálne pracujem na webe pre reálneho klienta a na webe pre folklórnu
   kapelu Mozaika — hrám v nej na akordeón (12+ rokov), takže tento projekt je
   aj osobný
-- 🌱 Prehlbujem sa v TypeScripte, Next.js a databázovom návrhu
+- 🌱 Tento rok sa učím React, Next.js a databázový návrh (predtým hlavne
+  HTML/CSS/JS)
 - 💬 Napíš mi o webe, folklóre, alebo oboch naraz
 - 📫 filip.glemba9@gmail.com
 
