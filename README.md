@@ -14,11 +14,11 @@ s webom — väčšinu z toho HTML/CSS/JS. Tento rok som sa pustil aj do full-st
 - 🌱 Tento rok sa učím React, Next.js a databázový návrh (predtým hlavne
   HTML/CSS/JS)
 - 💬 Napíš mi o webe, folklóre, alebo oboch naraz
-- 📫 filip.glemba9@gmail.com
+- 📫 filipglemba.dev@gmail.com
 
 ## 🌐 Socials
 
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/tetr0s) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/filip.glemba.16) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/filip._.glemba) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:filip.glemba9@gmail.com)
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/tetr0s) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/filip.glemba.16) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/filip._.glemba) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:filipglemba.dev@gmail.com)
 
 ## 💻 Tech Stack
 
