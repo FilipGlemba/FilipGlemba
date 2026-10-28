@@ -1,25 +1,67 @@
-# 👋 Filip Glemba — Web Developer
+<div align="center">
 
-Študent SSOSTA (odbor Informačné a digitálne technológie), 4+ roky skúseností
-s webom — väčšinu z toho HTML/CSS/JS. Tento rok som sa pustil aj do full-stacku
-(React, Next.js). Posledný väčší projekt: **[FitGear](https://fitgear-eshop.vercel.app)**
-— Next.js e-shop s autentifikáciou, platbami cez Stripe a admin dashboardom
-([kód](https://github.com/FilipGlemba/my-portfolio/tree/master/eshop)).
+# Filip Glemba
 
-**🌐 Portfólio:** [filipglemba.github.io/my-portfolio](https://filipglemba.github.io/my-portfolio/)
+**Web developer · full-stack · akordeonista**
 
-- 🔭 Momentálne pracujem na webe pre reálneho klienta a na webe pre folklórnu
-  kapelu Mozaika — hrám v nej na akordeón (12+ rokov), takže tento projekt je
-  aj osobný
-- 🌱 Tento rok sa učím React, Next.js a databázový návrh (predtým hlavne
-  HTML/CSS/JS)
-- 💬 Napíš mi o webe, folklóre, alebo oboch naraz
-- 📫 filipglemba.dev@gmail.com
+Robím weby a webové aplikácie od návrhu po nasadenie: React, Next.js, PHP a MySQL.<br/>
+<sub>Slovak web developer building full-stack web apps with React, Next.js, PHP and MySQL.</sub>
 
-## 🌐 Socials
+[![Portfólio](https://img.shields.io/badge/Portfólio-filipglemba.github.io-101b33?style=for-the-badge&logo=githubpages&logoColor=white)](https://filipglemba.github.io/my-portfolio/)
+[![Email](https://img.shields.io/badge/Email-filipglemba.dev@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:filipglemba.dev@gmail.com)
 
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/tetr0s) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/filip.glemba.16) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/filip._.glemba) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:filipglemba.dev@gmail.com)
+</div>
 
-## 💻 Tech Stack
+---
 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Next.js](https://img.shields.io/badge/next.js-black?style=for-the-badge&logo=next.js&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/mongodb-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+## O mne
+
+Študujem na SSOSTA odbor Informačné a digitálne technológie a webu sa venujem viac ako 4 roky. Začínal som s HTML, CSS a JavaScriptom, dnes staviam celé aplikácie s autentifikáciou, platbami, databázou a admin rozhraním.
+
+- 💼 **Teraz:** robím web pre reálneho klienta a vyvíjam vlastné produkty (nižšie)
+- 🌱 **Učím sa:** návrh databáz a multiplatformové aplikácie (web, Android, iOS)
+- 🪗 **Mimo kódu:** 12+ rokov hrám na akordeón vo folklórnej kapele Mozaika
+- 💬 **Ozvi sa mi:** web, spolupráca, alebo folklór
+
+## Projekty
+
+| | Projekt | Čo to je | Stack |
+| :-: | --- | --- | --- |
+| 🛒 | **[FitGear](https://fitgear-eshop.vercel.app)**<br/><sub>[kód](https://github.com/FilipGlemba/my-portfolio/tree/master/eshop) · live</sub> | E-shop s prihlasovaním, platbami cez Stripe a admin dashboardom | Next.js, Stripe |
+| 🎻 | **NotaFlow**<br/><sub>vo vývoji</sub> | Platforma pre kapely: synchronizácia nôt, folklórne kolečká, automatický posun audia na pódiu a generovanie zmlúv | React, Capacitor, PWA |
+| 📅 | **Termínko**<br/><sub>vo vývoji</sub> | Rezervačný nástroj pre agentúry a dodávateľov eventov | React, Vite, PHP, MySQL |
+| 🤖 | **Solvane**<br/><sub>vo vývoji</sub> | Discord bot (moderácia, ekonomika a levely, tickety, hudba, AI) s webovým dashboardom | discord.js, monorepo |
+| 🎶 | **Mozaika**<br/><sub>web kapely</sub> | Prezentácia kapely Mozaika: repertoár, členovia a rezervácie vystúpení na svadby a oslavy | HTML, CSS, JS |
+
+<sub>Väčšina repozitárov je súkromná. Kód rád ukážem na požiadanie.</sub>
+
+## Technológie
+
+**Frontend**<br/>
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat-square&logo=javascript&logoColor=F7DF1E)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232a?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-0F172A?style=flat-square&logo=tailwindcss&logoColor=38BDF8)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+
+**Backend a dáta**<br/>
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white)
+
+**Nástroje**<br/>
+![Git](https://img.shields.io/badge/Git-F05033?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-121011?style=flat-square&logo=github&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+
+## Kontakt
+
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:filipglemba.dev@gmail.com)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.gg/tetr0s)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/filip._.glemba)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://facebook.com/filip.glemba.16)
